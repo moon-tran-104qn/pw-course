@@ -1,0 +1,5 @@
+Bài tập 1: Giải thích các câu lệnh:
+git init - khởi tạo repo local
+git add <file_name> - đưa files mong muốn vào vùng staging
+git add . - thêm toàn bộ files modified vào staging
+git commit -m "message" - commit file

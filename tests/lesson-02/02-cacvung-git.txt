@@ -1,0 +1,4 @@
+Bài tập 2: Liệt kê các file theo từng vùng sau khi thao tác các lệnh
+file1 : vùng repository
+file2, file3 : vùng working directory
+
