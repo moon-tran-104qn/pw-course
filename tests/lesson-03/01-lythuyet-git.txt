@@ -1,0 +1,12 @@
+Bài tập 1: Giải thích các câu lệnh
+1. git commit --amend
+Sửa đổi (viết lại) commit gần nhất: thay đổi message, thêm/bớt file, hoặc cả 2 cùng lúc
+
+2. git commit --amend -m "<message>"
+Sửa message của commit gần nhất hoặc vừa thêm/bớt file vào commit gần nhất vừa sửa message của commit đó
+
+3. git restore --staged <file>
+Đưa file từ vùng Staging về lại vùng Working Directory
+
+4. git reset HEAD~1
+Đưa các file trong 1 commit gần nhất từ vùng Repository về lại vùng Working Directory
